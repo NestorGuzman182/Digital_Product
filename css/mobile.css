@@ -1,0 +1,16 @@
+@media (max-width: 600px){
+
+    main .products{
+        display:inherit;
+        height:auto;
+    }
+    .product{
+        margin-top:auto;
+    }
+    main .main-section img{
+        width: 100%;
+    }
+    section .contain-description, .contain-mentions{
+        display: inherit;
+    }
+}

@@ -1,0 +1,16 @@
+body{
+    background:#313337;
+    color:white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+img{
+    width: 15%;
+}
+
+a{
+    color: chartreuse;
+}
